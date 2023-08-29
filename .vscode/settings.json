@@ -53,5 +53,6 @@
         "Temp/":true
     },
     "editor.fontFamily": "Consolas",
-    "editor.fontSize": 14
+    "editor.fontSize": 14,
+    "dotnet.defaultSolution": "Asteroids-Practice-Game.sln"
 }
